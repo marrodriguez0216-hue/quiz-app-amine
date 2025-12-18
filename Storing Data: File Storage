@@ -1,0 +1,18 @@
+protected void Questionfile  throws IOException {
+            FileOutputStream fOut = openFileOutput("questionText".Context.MODE_PRIVATE);
+            String question = " test 1 " + "test 2" + "test 3" + "test 4 "+ "test 5" ;
+            fOut.write(question.getBytes());
+            fOut.close()
+
+protect void addQuestion throw To Expection{
+            
+        FileInputStream fin = openFileInput("questionText");
+
+        list.add(list.add(new Question("Does Anna from spy x family have mind power", true, "She can know what your thinking about"));
+        list.add(new Question("Did fluffy ever find the one piece", false, " Did the series end"));
+        list.add(new Question("Did nortti become hakama of the hidden leaf", true, "Became like end of his  life"));
+        list.add(new Question("Was levi the captain of his team", true, " He got the main on his team with his postion"));
+        list.add(new Question("Ash Ketchum has aged noticeably throughout the pokemon series ", true, "Has always remind the same look"));
+
+       fOut.close()
+}
