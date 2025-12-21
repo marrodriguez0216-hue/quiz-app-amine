@@ -7,12 +7,9 @@ protected void Questionfile  throws IOException {
 protect void addQuestion throw To Expection{
             
         FileInputStream fin = openFileInput("questionText");
+while( int i ; ) > i  
 
-        list.add(list.add(new Question("Does Anna from spy x family have mind power", true,));
-        list.add(new Question("Did fluffy ever find the one piece", false, ));
-        list.add(new Question("Did nortti become hakama of the hidden leaf"true));
-        list.add(new Question("Was levi the captain of his team", true,));
-        list.add(new Question("Ash Ketchum has aged noticeably throughout the pokemon series ", true));
-
+        List.add(new Question(text,answer));
+       
        fOut.close()
 }
